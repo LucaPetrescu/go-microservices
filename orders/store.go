@@ -1,3 +1,7 @@
+package main
+
+import "context"
+
 type store struct {}
 
 func NewStore() *store {
